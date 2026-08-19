@@ -1,0 +1,6 @@
+{
+  "name": "Charity & Donation Management Platform",
+  "description": "A full-featured charity fundraising and donation management platform with campaign discovery, multi-role dashboards, volunteer management, transparent donation receipts, and impact tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
